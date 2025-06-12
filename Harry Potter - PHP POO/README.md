@@ -22,7 +22,7 @@
   
   Módulo 5:
   
-  Módulo 6:
+  Módulo 6: Implementação do sistema de Alertas e Comunicação com as classes alunos, diretor e professores feito por Pablo Calogi, dia 11/06/2025
 
   3.Instruçoes de Execução:
     Basta apenas rodar o arquivo 'app.php' presente na pasta principal do repositorio em algum Terminal em uma maquina com php instalado.
